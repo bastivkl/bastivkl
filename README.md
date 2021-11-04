@@ -2,3 +2,4 @@
 
 [![Sebastian Völkl, Brains, Computers and Brain-Computer-Interfaces](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Brains%2C%20Computers%20and%20Brain-Computer-Interfaces&title=Sebastian%20V%C3%B6lkl)](https://pimp-my-readme.webapp.io)
 
+[![YouTube](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=YouTube)](https://www.youtube.com/channel/UC0jU3uR_c6_o-EMShiwBpjA)
