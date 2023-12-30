@@ -3,7 +3,7 @@
 Current Tech Stack while building side projects:
 - Next.js - framework
 - TypeScript, Python - languages
-- Vercel - deployments/hosting
+- Vercel - deployment/hosting
 - Supabase - database
 - Tailwind - CSS
 - NextAuth.js - auth
