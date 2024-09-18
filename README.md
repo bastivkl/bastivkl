@@ -1,11 +1,1 @@
-# Hi there 👋
-
-Current Tech Stack while building side projects:
-- TypeScript, Python - languages
-- Next.js - framework
-- Node.js - environment
-- Vercel - deployment/hosting
-- Supabase - database
-- Tailwind - CSS
-- NextAuth.js - auth
-- Stripe - payments
+Building Dalus. Software to model complex hardware systems for industries like space and defense
