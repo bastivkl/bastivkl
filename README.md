@@ -1,1 +1,1 @@
-Building Dalus. Software to model complex hardware systems for industries like space and defense
+Building Dalus.io Software to model complex hardware systems for industries like space and defense
